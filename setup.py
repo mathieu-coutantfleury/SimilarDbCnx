@@ -2,7 +2,7 @@
 __author__ = 'Mathieu COUTANT FLEURY'
 from setuptools import setup, find_packages
 
-version = '0.0.1'
+version = '1.0.1'
 
 setup(name='similarDbCnx',
       version=version,
@@ -19,7 +19,7 @@ setup(name='similarDbCnx',
       author_email='mathieu.coutantfleury@gmail.com',
       maintainer="Mathieu COUTANT FLEURY",
       maintainer_email='mathieu.coutantfleury@gmail.com',
-      url='',
+      url='https://github.com/mathieu-coutantfleury/SimilarDbCnx',
       license='',
       packages=find_packages(exclude=['tests']),
       package_data={'similardbcnx': ['db/conf/*.conf']},
