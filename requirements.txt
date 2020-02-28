@@ -1,0 +1,4 @@
+SQLAlchemy>=1.2
+WTForms-Alchemy
+SQLAlchemy-Utils==0.33.11
+mysqlclient~=1.3
